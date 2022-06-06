@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kalam&display=swap"
+      rel="stylesheet"
+    />
+    <title>APNI KAKSHA Home</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+      
+    <header>
+      <h1 style="text-align: center">अपनी कक्षा</h1>
+    </header>
+    <nav class="navigation">
+      <a class="nav1" href="" target="_blank">Home</a
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a
+        class="nav1"
+        href="https://www.reviewadda.com/institute/article/51/top-10-popular-courses-in-india"
+        target="_blank"
+      >
+        Courses </a
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a class="nav1" href="https://collegedunia.com/reviews" target="_blank"
+        >College Reviews</a
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a class="nav1" href="https://testseries.edugorilla.com/" target="_blank"
+        >Study Materials </a
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a class="nav1" href="PAYMENT_FORM.html" target="_blank">Login/Signup</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </nav>
+    <main>
+      <section class="main">
+        <h2 style="text-align: center" class="s1">COURSES</h2>
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <br />
+        <br />
+        <br />
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+      </section>
+      <hr />
+      <section>
+        <h2 style="text-align: center" class="s2">COLLEGE REVIEWS</h2>
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/j0biLzzJ2XQ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/j0biLzzJ2XQ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/j0biLzzJ2XQ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/j0biLzzJ2XQ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <br />
+        <br />
+        <br />
+        <br />
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/j0biLzzJ2XQ"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/Hu2UlulDGuI"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/1VfqlKtVF7U"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+        <iframe
+          width="350"
+          height="200"
+          src="https://www.youtube.com/embed/1VfqlKtVF7U"
+          title="YouTube video player"
+          frameborder="80"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe
+        >&nbsp;
+      </section>
+      <section>
+        <h2 style="text-align: center" class="s3">STUDY MATERIALS</h2>
+
+        <div class="box">
+          <a href="pdf/ReactJSNotesForProfessionals (1).pdf" target="_blank"
+            ><img
+              src="pdf/reactjs.png"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <a href="pdf/java_tutorial.pdf" target="_blank">
+            <img
+              src="pdf/java.png"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <a href="pdf/django.pdf" target="_blank"
+            ><img
+              src="pdf/django.png"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <a href="pdf/webprog_top.pdf" target="_blank"
+            ><img
+              src="pdf/web d.jpg"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <br />
+          <br />
+          <br />
+          <br />
+          <a href="pdf/php_tutorial.pdf" target="_blank"
+            ><img
+              src="pdf/php.png"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <a href="pdf/PYTHON PROGRAMMING NOTES.pdf" target="_blank"
+            ><img
+              src="pdf/python.jpg"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <a href="pdf/285_OOPS lecture notes Complete.pdf" target="_blank"
+            ><img
+              src="pdf/c++.png"
+              alt="This is an image"
+              width="350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="pdf/ML.pdf" target="_blank">
+            <img
+              src="pdf/ML.jpg"
+              alt="This is an image"
+              width="=350"
+              height="200" /></a
+          >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+      </section>
+
+      <h2 style="text-align: center" class="s4">OUR FOUNDER</h2>
+
+      <div class="box1" style="text-align: center">
+        <img class="aman1" src="pdf/aman.jpg" alt="AMAN" />
+      </div>
+      <br />
+      <div style="text-align: center">
+        <a
+          href="https://www.google.com/search?q=aman+dhattarwal&bih=664&biw=1536&rlz=1C1CHBF_enIN976IN976&hl=en&sxsrf=ALiCzsZikaO7_Vrfjoagi9Ihh_qsWM6Eow%3A1654068856750&ei=eBaXYpipLebc4-EP5bS2sA4&ved=0ahUKEwiYxY_V3ov4AhVm7jgGHWWaDeYQ4dUDCA4&uact=5&oq=aman+dhattarwal&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyEAgAEIAEEIcCELEDEIMBEBQyCwgAEIAEELEDEIMBMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgoIABCxAxCDARBDMgUIABCABDIFCAAQgAQyBAgAEEM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DAguEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCOgoIABCABBCHAhAUSgQIQRgASgQIRhgBUL4GWLYLYOQQaAFwAXgAgAHSAYgBnwaSAQUwLjIuMpgBAKABAcgBE8ABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz"
+          style="text-align: center"
+        >
+          AMAN DHATTARWAL</a
+        >
+        <br />
+        <br />
+      </div>
+      <div style="text-align: center">
+        <a
+          href="https://www.youtube.com/results?search_query=aman+dhattarwal"
+          target="_blank"
+          >Youtube</a
+        >&nbsp;|
+        <a
+          href="https://www.instagram.com/dhattarwalaman/?hl=en "
+          target="_blank"
+          >Instagram</a
+        >&nbsp;
+        <br />
+        <br />
+        <h3 class="aman">
+          Aman Dhattarwal was born on September 22, 1997, in New Delhi, India,
+          to an Indian Hindu family.
+        </h3>
+        <h4>
+          Aman Dhattarwal is a YouTuber, speaker, influencer, career advisor,
+          and educator from India. His YouTube channel, where he posts
+          instructional and inspiring videos, has made him famous. The channel
+          features a wide range of educational information, including content
+          for grades 12 and up, as well as JEE and other competitive exams.
+          Despite having a Btech in IT from NSIT, he is also the creator of
+          “Apni Kaksha.” He is also the founder & CEO of Hustlers Bay. As a
+          public speaker, he spoke at TEDx Talks. He is also a top educator of
+          an online learning app Unacademy.
+        </h4>
+      </div>
+      <br />
+      <br />
+
+      <div style="text-align: center" class="box2">
+        <img class="harry1" src="pdf/harry.jpg" alt="harry" />
+      </div>
+      <br />
+      <div style="text-align: center">
+        <a href="https://codewithharry.com/">HARRY BHAIYA</a>
+
+        <br />
+        <br />
+      </div>
+      <div style="text-align: center">
+        <a href="https://www.youtube.com/c/CodeWithHarry" target="=_blank"
+          >Youtube</a
+        >&nbsp;|
+        <a
+          href="https://www.instagram.com/codewithharry/?hl=en"
+          target="=_blank"
+          >Instagram</a
+        >&nbsp;
+        <br />
+        <br />
+        <p class="harry">
+          Harry is born into a normal family in Uttar Pradesh. Since childhood,
+          Harry has been focusing on computers and technology related to
+          computers, how computers and technology work and Harry is very
+          interested in learning about computers.
+        </p>
+        <h4>
+          Code with Harry is also a programmer, web developer educator and
+          creator of YouTube pay videos and best of all, Code with Harry hails
+          from Rampur in Uttar Pradesh, India. He has also completed his school
+          and college studies from Rampur. Code with Harry graduated in B. Tech
+          (B Tech) and M. Tech (M Tech) also IITs (IIT Kharagpur) is
+          accomplished Kharagpur.
+        </h4>
+      </div>
+    </main>
+    <footer>
+      <nav>
+        <a href="#">FAQ</a>&nbsp;&nbsp;&nbsp;
+
+        <a href="#"> Contact us </a>&nbsp;&nbsp;&nbsp;
+
+        <a href="#">Privacy & Policy </a>&nbsp;&nbsp;&nbsp;
+
+        <a href="#"> Terms of use </a>&nbsp;&nbsp;&nbsp;
+
+        <a href="#">Refund Policy</a>&nbsp;&nbsp;&nbsp;
+
+        <a href="#">&copy;2022| Apni Kaksha</a>&nbsp;&nbsp;&nbsp;
+      </nav>
+    </footer>
+    
+  </body>
+</html>
