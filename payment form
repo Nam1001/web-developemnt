@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>payment gateway</title>
+</head>
+<body>
+    <form>
+        <h1> WELCOME TO THE PAYMENT GATEWAY</h1>
+        <nav>
+            <a href="https://retail.onlinesbi.com/personal/" target="_blank">personal Banking</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://mobilityretail.sbi/sbf_retail.html" target="_blank">Mobile Banking</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://retail.onlinesbi.com/personal/faq.html" target="_blank">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.sbi.co.in/" target="_blank">Corporate Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.onlinesbi.sbi/sbicollect/icollecthome.htm" target="_blank">SB Collect</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://retail.onlinesbi.com/retail/mcashclaimwin.htm?bankCode=0" target="_blank">mCASH</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://customer.sbiunipay.sbi/CustomerPortal/quickPay" target="_blank">Bill Pay</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+        </nav>
+        <div >
+        <p>Call us toll free on 1800 1234 and 1800 2100 and get a wide range of services through SBI Contact Centre.
+            SBI never asks for your Card/PIN/OTP/CVV details on phone, message or email. 
+            Please do not click on links received on your email or mobile asking your Bank/Card details. </p>
+        </div>
+        <h2> CONTACT DETAILS</h2>
+        <p> NAME : *<input type="text" name="NAME" required placeholder="OM PANDEY"></p>
+        <p> PHONE NUMBER : * <input type="number" name="PHONE NUMBER" id="PHONE NUMBER" required placeholder="123456890"> </p>
+        
+            <legend>GENDER *</legend>
+        <p> MALE <input type="radio" name="gender" id="MALE" required>
+             FEMALE <input type="radio" name="gender" id="FEMALE" required></p>
+        
+        <P> ADDRESS: * <textarea name="address" id="address" cols="100" rows="10" placeholder="Enter the Address"></textarea></P>
+        
+        <p>POSTAL CODE * <input type="number" required placeholder="123456"></p>
+        <P> EMAIL: <input type="email" name=" EMAIL" id=" EMAIL" placeholder="abc@gmail.com"> PASSWORD <input type="password">
+            <hr>
+            <div class="sbi">
+                <a href=https://homeloans.sbi target="_blank"><img src="pdf/sbi.jpg" alt=""></a>
+            </div>
+            <h2>Payment Information</h2>
+            <p>Card Name <select name="card name" id="card name">
+                <option value="">--select a card--</option>
+    
+                <option value="Visa debit cards">Visa debit cards</option>
+                <option value="MasterCard debit cards">MasterCard debit cards</option>
+                <option value="RuPay debit cards">RuPay debit cards</option>
+                <option value="Maestro Debit Card">Maestro Debit Card</option>
+                <option value="PNB Global Gold Card">PNB Global Gold Card</option>
+                <option value="SBI Student Plus Advantage Credit Card">SBI Student Plus Advantage Credit Card</option>
+            </select>
+        </p>
+            <p class="add1"> Card Number <input type="number" name="card number" id="card number" placeholder="1111-1111-1111"></p>
+            <p> Expiration Date <input type="date" name="expiration date" id="expiration date"></p>
+            <p> CVV <input type="password" name="cvv" id="cvv" placeholder="123"></p>
+            <p> OTP <input type="number" name="otp" id="otp" ></p>
+            <p class="click"> Click here to accept all the conditons <input type="checkbox" name="T&C" id="T&C"><a  href="pdf/ola-tnc-and-mitc.pdf" target="_blank"> Read here</a></p>
+            <div class="last">
+            <input type="submit" value="Pay Now">
+            </div>
+        </form>
+</body>
+</html>
